@@ -4,3 +4,9 @@
 [submodule "react-headless-counter"]
 	path = react-headless-counter
 	url = git@github.com:robence/react-headless-counter.git
+[submodule "react-hook-store"]
+	path = react-hook-store
+	url = git@github.com:robence/react-hook-store.git
+[submodule "react-hooks"]
+	path = react-hooks
+	url = git@github.com:robence/react-hooks.git
