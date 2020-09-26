@@ -1,3 +1,6 @@
 [submodule "react-pokemon"]
 	path = react-pokemon
 	url = git@github.com:robence/react-pokemon.git
+[submodule "react-headless-counter"]
+	path = react-headless-counter
+	url = git@github.com:robence/react-headless-counter.git
