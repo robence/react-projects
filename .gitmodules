@@ -1,0 +1,3 @@
+[submodule "react-pokemon"]
+	path = react-pokemon
+	url = git@github.com:robence/react-pokemon.git
