@@ -10,3 +10,6 @@
 [submodule "react-hooks"]
 	path = react-hooks
 	url = git@github.com:robence/react-hooks.git
+[submodule "burger-app"]
+	path = burger-app
+	url = git@github.com:robence/burger-app.git
