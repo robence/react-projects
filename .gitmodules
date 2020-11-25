@@ -13,3 +13,6 @@
 [submodule "burger-app"]
 	path = burger-app
 	url = git@github.com:robence/burger-app.git
+[submodule "ducks-notes"]
+	path = ducks-notes
+	url = git@github.com:robence/ducks-notes.git
