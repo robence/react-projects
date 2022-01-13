@@ -16,3 +16,6 @@
 [submodule "ducks-notes"]
 	path = ducks-notes
 	url = git@github.com:robence/ducks-notes.git
+[submodule "react-drag-and-drop"]
+	path = react-drag-and-drop
+	url = https://github.com/robence/react-drag-and-drop
